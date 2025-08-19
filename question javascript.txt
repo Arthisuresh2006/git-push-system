@@ -1,0 +1,9 @@
+1) a person and b person,a has 4 ruppees and b has 7 rupees a person get the 2 rupees from b b person get 3 ru from a after two days both are returned 1 ru 
+ans a=5 and b=6
+a=3 b=8
+
+2) raj person he has 2 child they are male first child one kid second child 3 kid fist child female second male 2,female 1 
+ans 5 male 5 female =10
+
+one person one work 8 hrs 3 person same work 
+30m 100m=1km 0.3=30m 400km=400000m
